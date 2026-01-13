@@ -54,12 +54,12 @@ console.log(typeof umar)
 let myEmail = "golusinghrathoure919"
 
 //Strings
-const name = "ravi";
-const age = 23
+const name2 = "ravi";
+const age2 = 23
 const gender = "male"
 
-console.log(name + age + gender) // older method
-console.log(`my name is ${name} and my age is ${age} and gender is ${gender}`)
+console.log(name2 + age2 + gender) // older method
+console.log(`my name is ${name2} and my age is ${age2} and gender is ${gender}`)
 
 // modern use string interpolation
 const city = "  muzaffarpur "
